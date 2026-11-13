@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sukhleen02/myLeet/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Sukhleen02/myLeet/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sukhleen02/myLeet/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Sukhleen02/myLeet/tree/master/0217-contains-duplicate) |
 ## Design
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/Sukhleen02/myLeet/tree/master/0065-valid-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Sukhleen02/myLeet/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
