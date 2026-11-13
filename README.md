@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sukhleen02/myLeet/tree/master/0016-3sum-closest) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sukhleen02/myLeet/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
