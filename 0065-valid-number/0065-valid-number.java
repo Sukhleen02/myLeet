@@ -1,13 +1,9 @@
-
 class Solution {
     public boolean isNumber(String s) {
-
-        try {
-            Double.parseDouble(s);
+        s = s.trim();
+        if (s.matches("[+-]?((\\d+\\.?\\d*)|(\\.\\d+))([eE][+-]?\\d+)?")) {
             return true;
         }
-        catch (Exception e) {
-            return false;
-        }
+        return false;
     }
 }
