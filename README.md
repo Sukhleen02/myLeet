@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sukhleen02/myLeet/tree/master/0258-add-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/Sukhleen02/myLeet/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sukhleen02/myLeet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Sukhleen02/myLeet/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
