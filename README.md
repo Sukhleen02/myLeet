@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sukhleen02/myLeet/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Sukhleen02/myLeet/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sukhleen02/myLeet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sukhleen02/myLeet/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sukhleen02/myLeet/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Sukhleen02/myLeet/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Sukhleen02/myLeet/tree/master/0217-contains-duplicate) |
 ## Design
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sukhleen02/myLeet/tree/master/0003-longest-substring-without-repeating-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Sukhleen02/myLeet/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
