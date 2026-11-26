@@ -1,1 +1,0 @@
-Easy Leetcode Solutions
